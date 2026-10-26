@@ -1,7 +1,7 @@
 # Try SkinSafe
 
 1. Open **https://skinsafe-cac.vercel.app**.
-2. Log in with username `skinsafeapp` and password `skinsafe`.
+2. Log in with username `skinsafe2026` and password `skinsafe2026`.
 3. Browse the saved records, then select **Check a photo**.
 4. Download one of the photos below and upload that **original file**. Keep its file format; a screenshot or edited copy may not match.
 5. Open the result, try a suggested question, or type your own question.

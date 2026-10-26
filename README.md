@@ -2,8 +2,10 @@
 
 Try SkinSafe at **https://skinsafe-cac.vercel.app**.
 
-Judge account: `skinsafeapp`  
-Password: `skinsafe`
+Judge login:
+
+- Username: `skinsafe2026`
+- Password: `skinsafe2026`
 
 The three photos in this repository are ready to upload. See [INSTRUCTIONS.md](INSTRUCTIONS.md) for the walkthrough and expected results.
 
