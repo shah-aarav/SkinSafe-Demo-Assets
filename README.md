@@ -1,13 +1,13 @@
-# SkinSafe Demo Assets
+# SkinSafe Demo
 
-Try SkinSafe at **https://skinsafe-cac.vercel.app**.
+ **https://skinsafe-cac.vercel.app**.
 
-Judge login:
+Demo login info:
 
-- Username: `skinsafe2026`
-- Password: `skinsafe2026`
+Username: `skinsafe2026`
+Password: `skinsafe2026`
 
-The three photos in this repository are ready to upload. See [INSTRUCTIONS.md](INSTRUCTIONS.md) for the walkthrough and expected results.
+The three photos in this repo are images that can be used as test images to upload and experiment around with conclusions and asking different questions.
 
 ## Image credit
 
